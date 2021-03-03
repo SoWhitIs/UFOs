@@ -51,7 +51,7 @@ User inputs desired output(s) from available criteria options, in the format sho
 Search results will appear in area to the right of the search field as a table, below article. 
 
 <p align="center">
-  <i><b> Enter State Search, "nj"-- 'Full', Results </b></i> 
+  <i><b> Enter State Search, "nj"-- 'Full' Results </b></i> 
 
 <p align="center">
   <img src="static/images/search_results_outputs.png"/>   
@@ -59,7 +59,7 @@ Search results will appear in area to the right of the search field as a table, 
 
 When search conditions do not yield results the output field will be "empty".
  <p align="center">
-  <i><b> Enter City Search, "roswell"-- 'Empty', No Results</b></i> 
+  <i><b> Enter City Search, "roswell"-- 'Empty' Results </b></i> 
 
 <p align="center">
   <img src="static/images/empty_search_results.png"/>   
