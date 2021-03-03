@@ -5,7 +5,7 @@
 
 The intrigue for extra-terrestrial life is a phenomenon that has quite the following! This phenomenon has spawned many movies such as "E.T.", "Alien", "Star Wars", "Men in Black", books as the "The War of the Worlds", television programs as "The X Files", "Star Trek", "The Twilight Zone" and "Stargate SG-1". The appeal of life other than our own has also made it to music, as there are countless songs that reference the term "alien" or the like in their lyrics or title. Even of late, the ever-popular podcast medium has garnered shows that explore the former. Lest not forget the mystery and interests surrounding such locations Roswell, California, and Area 51. Oh, there is a World UFO Day!
 
-In a Google search for the term "UFO" over 164 Billion results were returned in less 0.47 seconds. And, in looking at the data over the last five years via [Google Trends] (https://trends.google.com/trends/explore?hl=en-US&tz=300&date=today+5-y&hl=en-US&q=ufo,%2Fm%2F02m2p&sni=3), both the terms "ufo" and "Extraterrestrial life” appear to have been searched relatively equally, worldwide. Needless to say, this _intrigue_ doesn't appear to be faltering anytime soon.
+In a Google search for the term "UFO" over 164 Billion results were returned in less 0.47 seconds. And, in looking at the data over the last five years via [Google Trends](https://trends.google.com/trends/explore?hl=en-US&tz=300&date=today+5-y&hl=en-US&q=ufo,%2Fm%2F02m2p&sni=3), both the terms "ufo" and "Extraterrestrial life” appear to have been searched relatively equally, worldwide. Needless to say, this _intrigue_ doesn't appear to be faltering anytime soon.
 
 For enthusiasts like Dana, a data journalist, the very topic (and her hometown of McMinnville, Oregon--famous for its share of UFO sightings) has sparked inspiration for a new article. In additional to the article, Dana would like to present a list of searchable UFO sighting records. 
 
@@ -19,7 +19,7 @@ A centralized interactive webpage was created to incorporate both the written co
 
 ##  Results
 ### At First _"Sight"_...
-Upon visiting the webpage (as seen in the below screen grab), user is presented with written content to the right and a search field form to the left. Just below the written content, by default, shows all available data in table format.  
+Upon visiting the webpage (as seen in the below screen grab), user is met with written content to the right and a search field form to the left. Just below the written content, by default, shows all available data in table format.  
 
 Additional features include a dark background with light colored text, as well as background image and navigation bar. 
 
@@ -94,11 +94,11 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
 - **Reset Search Clickable Button**
 
-    Having an alternative way to clear or reset the search field rather would minimize the need to scroll to top of page or use options provided in previous section. (and anchor link)
+    Having an alternative way to clear or reset the search field rather would minimize the need to scroll to top of page or use options provided in [previous section](https://github.com/SoWhitIs/UFOs/blob/main/README.md#three).
 
  -  **Double Check Dataset**
 
-    As more data becomes available, it is very true said data will present _"cleaner"_ than others, it would be worthwhile to do a check for special nuances as outlined, above. **(add anchor link to previous section) **
+    As more data becomes available, it is very true said data will present _"cleaner"_ than others, it would be worthwhile to do a check for special nuances as outlined, [above](https://github.com/SoWhitIs/UFOs/blob/main/README.md#three).
 
     Try to format the data, where possible.  You want our visitors to be access the content in most streamlined way as possible. 
 
@@ -113,7 +113,7 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
     Periodically, refreshing of the webpage would be welcoming _“sight”_  for a visitor. 
 
-    Yes, the content sparks a great interest in and of itself, yet how it is presented is how we keep engagement. 
+   Yes, the content fuels great interest in and of itself, yet how it is _"offered"_ drives engagement. 
 
     Changing or rearranging the scheme of the webpage from refreshing background images, color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
 
