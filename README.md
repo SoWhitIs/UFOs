@@ -1,4 +1,4 @@
-# _Did ya see that?!_ || UFO Sighting Analysis
+# _Did ya see that?!_ || UFO Sightings Analysis
 
 
 ## Overview of Project 
