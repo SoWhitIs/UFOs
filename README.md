@@ -19,7 +19,7 @@ A centralized interactive webpage was created to incorporate both the written co
 
 ##  Results
 ### At First _"Sight"_...
-Upon visiting the webpage (as seen in the below screen grab), user is presented with written content to the right and a search field form to the left. Just below the written content, by default, shows all available data in table format.  
+Upon visiting the webpage (as seen in the below screen grab), user is met with written content to the right and a search field form to the left. Just below the written content, by default, shows all available data in table format.  
 
 Additional features include a dark background with light colored text, as well as background image and navigation bar. 
 
@@ -94,11 +94,11 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
 - **Reset Search Clickable Button**
 
-    Having an alternative way to clear or reset the search field rather would minimize the need to scroll to top of page or use options provided in previous section. (and anchor link)
+    Having an alternative way to clear or reset the search field rather would minimize the need to scroll to top of page or use options provided in [previous section](https://github.com/SoWhitIs/UFOs/blob/main/README.md#three).
 
  -  **Double Check Dataset**
 
-    As more data becomes available, it is very true said data will present _"cleaner"_ than others, it would be worthwhile to do a check for special nuances as outlined, above. **(add anchor link to previous section) **
+    As more data becomes available, it is very true said data will present _"cleaner"_ than others, it would be worthwhile to do a check for special nuances as outlined, [above](https://github.com/SoWhitIs/UFOs/blob/main/README.md#three).
 
     Try to format the data, where possible.  You want our visitors to be access the content in most streamlined way as possible. 
 
@@ -113,7 +113,7 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
     Periodically, refreshing of the webpage would be welcoming _“sight”_  for a visitor. 
 
-    Yes, the content sparks a great interest in and of itself, yet how it is presented is how we keep engagement. 
+   Yes, the content fuels great interest in and of itself, yet how it is _"offered"_ drives engagement. 
 
     Changing or rearranging the scheme of the webpage from refreshing background images, color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
 
