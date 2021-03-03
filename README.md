@@ -93,32 +93,34 @@ Other methods: one can simple refresh the page in the address bar or delete cont
 ### Recomendations: 
 Though, the webpage provides an easy way to access UFO Sightings, there is always room for improvement to make the experience a bit more engaging. 
 
- [ ] **Reset Search Clickable Button**
+- **Reset Search Clickable Button**
 
-Having an alternative way to clear or reset the search field rather would minimize the need to scroll to top of page or use options provided in previous section. (and anchor link)
+    Having an alternative way to clear or reset the search field rather would minimize the need to scroll to top of page or use options provided in previous section. (and anchor link)
 
-**Double Check Dataset**
+ -  **Double Check Dataset**
 
-As more data becomes available, it is very true said data will present _"cleaner"_ than others, it would be worthwhile to do a check for special nuances as outlined, above. **(add anchor link to previous section) **
+    As more data becomes available, it is very true said data will present _"cleaner"_ than others, it would be worthwhile to do a check for special nuances as outlined, above. **(add anchor link to previous section) **
 
-Try to format the data, where possible.  You want our visitors to be access the content in most streamlined way as possible. 
+    Try to format the data, where possible.  You want our visitors to be access the content in most streamlined way as possible. 
 
-**Additional Search Options**
-As mentioned, "Duration" and "Comments" cannot be searched, however, for future iterations this can too implemented.  Perhaps, adding a more advance way to search these criteria via drop down menu. 
+- **Additional Search Options**
 
-Drop-down menus, with tick options can be added alongside the manually search--this would be particularly impact if such were incorporated in the design of the table itself. 
+    As mentioned, "Duration" and "Comments" cannot be searched, however, for future iterations this can too implemented.  Perhaps, adding a more advance way to search these criteria via drop down menu. 
+
+    Drop-down menus, with tick options can be added alongside the manually search--this would be particularly impact if such were incorporated in the design of the table itself. 
 
  
- **Makeover!**
+ - **Makeover!**
 
-Periodically, refreshing of the webpage would be welcoming _“sight”_  for a visitor. 
+    Periodically, refreshing of the webpage would be welcoming _“sight”_  for a visitor. 
 
-Yes, the content sparks a great interest in and of itself, yet how it is presented is how we keep engagement. 
+    Yes, the content sparks a great interest in and of itself, yet how it is presented is how we keep engagement. 
 
-Changing or rearranging the scheme of the webpage from refreshing background images, color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
+    Changing or rearranging the scheme of the webpage from refreshing background images, color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
 
 
 #### Author
+
 _Whitney D. Gardner_
 
  
