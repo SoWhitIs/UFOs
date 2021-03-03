@@ -26,14 +26,14 @@ Additional features include a dark background with light colored text, as well a
 
 
 
- <p align="left">
+ <p align="center">
   <i><b> UFO Sightings Webpage</b></i> 
 <img src="static/images/screen_grab_2_webpage.png"/>
 
 ---
-### Navigating The Page: _Searching..._
+### Navigating The Page
 
-***One...***
+### *One...*
 
 User inputs desired output(s) from available criteria options, in the format shown in said field and hits the enter button {on keyboard}. **Not all** search fields are required to return results. Conversely, *all* search fields can be filled in to yield results. 
 
@@ -42,16 +42,16 @@ User inputs desired output(s) from available criteria options, in the format sho
         - Enter City, Enter Shape: lowercase, full name
         - Enter Country, Enter State: lowercase, abreviated
  
-  <p align="left">
+  <p align="center">
   <i><b> Search Criteria Form</b></i> 
  <p align="center">
   <img src="static/images/search_formats.png" />
 
- ***Two...***
+ ### *Two...*
 
 Search results will appear in area to the right of the search field as a table, below article. 
 
-<p align="left">
+<p align="center">
   <i><b> Enter State Search, "nj"-- 'Full', Results </b></i> 
 
 <p align="center">
@@ -59,19 +59,19 @@ Search results will appear in area to the right of the search field as a table, 
 
 
 When search conditions do not yield results the output field will be "empty".
- <p align="left">
+ <p align="center">
   <i><b> Enter City Search, "roswell"-- 'Empty', No Results</b></i> 
 
 <p align="center">
   <img src="static/images/empty_search_results.png"/>   
 
- _**Three.**_
+### *Three.*
 
 Clicking on "UFO Sightings" in the navigation bar will refresh the page and clear all previous outputs. 
 
 Other methods: one can simple refresh the page in the address bar or delete content from the fields manually. 
 
- <p align="left">
+ <p align="center">
   <i><b> UFO Sightings Navagation Bar</b></i> 
 
 <p align="center">
@@ -80,10 +80,10 @@ Other methods: one can simple refresh the page in the address bar or delete cont
 
  >**Notes:**
 >* While, the table showcases "Duration" and "Comments" columns, such cannot be searched by user.
->* Some searches will return the following special characters in the "Comment" column of field, an HTML character for comma from  [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html#SEC13).
- <img src="static/images/specialcharacters_dataset.png"/>
+>* Some searches will return the following special characters in the "Comment" column of field, an HTML character for comma from  [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html#SEC13). <img src="static/images/specialcharacters_dataset.png"/>
+ 
 
- <p align="left">
+ <p align="center">
   <i><b> Special Characters</b></i> 
   <p align="center">
   <img src="static/images/html_specialcharacters.png" />   
