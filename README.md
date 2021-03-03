@@ -68,7 +68,7 @@ When search conditions do not yield results the output field will be "empty".
 
 Clicking on "UFO Sightings" in the navigation bar will refresh the page and clear all previous outputs. 
 
-Other methods: one can simple refresh the page in the address bar or delete content from the fields manually. 
+Other methods: one can, simply, refresh the page in the address bar or delete content from the fields, manually. 
 
  <p align="center">
   <i><b> UFO Sightings Navagation Bar</b></i> 
@@ -106,16 +106,16 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
     As mentioned, "Duration" and "Comments" cannot be searched, however, for future iterations this can too implemented.  Perhaps, adding a more advance way to search these criteria via drop down menu. 
 
-    Drop-down menus, with tick options can be added alongside the manually search--this would be particularly impact if such were incorporated in the design of the table itself. 
+    Drop-down menus, with tick options can be added alongside the manually-entered search.This feature would be particularly impact if such were incorporated in the design of the table itself. 
 
  
  - **Makeover!**
 
     Periodically, refreshing of the webpage would be welcoming _“sight”_  for a visitor. 
 
-   Yes, the content fuels great interest in and of itself, yet how it is _"offered"_ drives engagement. 
+   Yes, the content fuels great interest in and of itself, yet how it is _packaged_ drives engagement. 
 
-    Changing or rearranging the scheme of the webpage from refreshing background images, color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
+    Changing or rearranging the scheme of the webpage from refreshing background images and color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
 
 
 #### Author
