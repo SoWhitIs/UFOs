@@ -15,14 +15,13 @@ A centralized interactive webpage was created to incorporate both the written co
 
 * Data Source(s): [data.js](static/js/data.js)
 
-* Software / Tools: Visual Studio Code, 1.52. 1 | Language (s): JavaScript, HTML, CSS| JavaScript Libraries: D3.js | Bootstrap
+* Software / Tools: Visual Studio Code, 1.52. 1 | Language (s): JavaScript, HTML, CSS | JavaScript Libraries: D3.js | Bootstrap
 
 ##  Results
 ### At First _"Sight"_...
 Upon visiting the webpage (as seen in the below screen grab), user is presented with written content to the right and a search field form to the left. Just below the written content, by default, shows all available data in table format.  
 
 Additional features include a dark background with light colored text, as well as background image and navigation bar. 
-
 
 
 
@@ -80,8 +79,8 @@ Other methods: one can simple refresh the page in the address bar or delete cont
 
  >**Notes:**
 >* While, the table showcases "Duration" and "Comments" columns, such cannot be searched by user.
->* Some searches will return the following special characters in the "Comment" column of field, an HTML character for comma from  [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html#SEC13). <img src="static/images/specialcharacters_dataset.png"/>
- 
+>* Some searches will return the following special characters in the "Comment" column of field, an HTML character for comma from  [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html#SEC13). 
+
 
  <p align="center">
   <i><b> Special Characters</b></i> 
