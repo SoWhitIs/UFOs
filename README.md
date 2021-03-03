@@ -106,7 +106,7 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
     As mentioned, "Duration" and "Comments" cannot be searched, however, for future iterations this can too implemented.  Perhaps, adding a more advance way to search these criteria via drop down menu. 
 
-    Drop-down menus, with tick options can be added alongside the manually-entered search.This feature would be particularly impact if such were incorporated in the design of the table itself. 
+    Drop-down menus, with tick options can be added alongside the manually-entered search. This feature would be particularly impact if such were incorporated in the design of the table itself. 
 
  
  - **Makeover!**
