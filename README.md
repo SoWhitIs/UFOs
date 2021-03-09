@@ -9,7 +9,7 @@ In a Google search for the term "UFO" over 164 Billion results were returned in 
 
 For enthusiasts like Dana, a data journalist, the very topic (and her hometown of McMinnville, Oregon--famous for its share of UFO sightings) has sparked inspiration for a new article. In additional to the article, Dana would like to present a list of searchable UFO sighting records. 
 
-A centralized interactive webpage was created to incorporate both the written content and a table of recorded sighting data that users or site visitors can filtered by multiple criteria: date, country, city, state, or/and shape.
+A centralized interactive webpage was created to incorporate both the written content and a table of recorded sighting data that users or site visitors can filtered by multiple criteria: date, country, city, state, or/and shape. Webpage can be viewed,[here.](https://sowhitis.github.io/UFOs/)
 
 ## Resources
 
