@@ -117,7 +117,7 @@ Though, the webpage provides an easy way to access UFO Sightings, there is alway
 
     Changing or rearranging the scheme of the webpage from refreshing background images and color combinations, to frequent updates content i.e., articles and/or how data records are displayed can offer a memorable experience that people with continually gravitate to!
 
-
+---
 #### Author
 
 _Whitney D. Gardner_
